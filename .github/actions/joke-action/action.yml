@@ -1,0 +1,7 @@
+name: "my joke action | mi acción de broma"
+
+description: "use an external API to retrieve and display a joke | utiliza una API externa para recuperar y mostrar un chiste"
+
+runs:
+  using: "node16"
+  main: "main.js"
